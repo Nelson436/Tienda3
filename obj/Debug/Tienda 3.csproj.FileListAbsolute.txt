@@ -1,0 +1,7 @@
+C:\Users\nelso\source\repos\Tienda 3\bin\Debug\Tienda 3.exe.config
+C:\Users\nelso\source\repos\Tienda 3\bin\Debug\Tienda 3.exe
+C:\Users\nelso\source\repos\Tienda 3\bin\Debug\Tienda 3.pdb
+C:\Users\nelso\source\repos\Tienda 3\obj\Debug\Tienda 3.csproj.AssemblyReference.cache
+C:\Users\nelso\source\repos\Tienda 3\obj\Debug\Tienda 3.csproj.CoreCompileInputs.cache
+C:\Users\nelso\source\repos\Tienda 3\obj\Debug\Tienda 3.exe
+C:\Users\nelso\source\repos\Tienda 3\obj\Debug\Tienda 3.pdb
